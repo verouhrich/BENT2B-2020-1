@@ -9,6 +9,7 @@ Para entender el gitworkflow by Feature, vamos a hacer el siguiente ejercicio:
  -  Agregar cambios `git add .`
  -  Comitear cambios `git commit -m "E mensaje identificativo del cambio"`
  -  Subir cambios `git push origin <nombre_rama>`
+ -  Hacer una solicitud de mergeo con un Pull Request.
 
 # Profesor: 
 Daniel Guzman.
