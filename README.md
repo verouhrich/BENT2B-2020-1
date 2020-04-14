@@ -8,3 +8,4 @@ Daniel Guzman.
 
 - Daniel Guzman, daniel.guzman@ort.edu.ar
 - German Sandoval, gergsandoval@hotmail.com
+- Federico Lavista, flavista@gmail.com
