@@ -20,4 +20,4 @@ Daniel Guzman.
 - German Sandoval, gergsandoval@hotmail.com
 - Veronica Uhrich, veronicauhrich@gmail.com
 - Tomas Gargiulo, tgargiulo4@gmail.com
-- Federico Lavista, flavista@gmail.com
+- Federico Lavista, flavista@gmail.com.
