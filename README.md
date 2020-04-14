@@ -19,3 +19,4 @@ Daniel Guzman.
 - Daniel Guzman, daniel.guzman@ort.edu.ar
 - German Sandoval, gergsandoval@hotmail.com
 - Veronica Uhrich, veronicauhrich@gmail.com
+- Pablo Andrés, pablojorgeandres@gmail.com
