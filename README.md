@@ -8,3 +8,4 @@ Daniel Guzman.
 
 - Daniel Guzman, daniel.guzman@ort.edu.ar
 - German Sandoval, gergsandoval@hotmail.com
+- Tomas Gargiulo, tgargiulo4@gmail.com
