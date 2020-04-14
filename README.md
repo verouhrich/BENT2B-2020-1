@@ -17,4 +17,4 @@ Daniel Guzman.
 # Alumnos:
 
 - Daniel Guzman, daniel.guzman@ort.edu.ar
-- German Sandoval, gergsandoval@hotmail.com
+- German Gustavo Sandoval, gergsandoval@hotmail.com
