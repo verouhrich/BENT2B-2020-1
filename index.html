@@ -1,0 +1,45 @@
+<h1 id="mi_id">Hola mundo!</h1>
+
+<script>
+    
+
+    class Persona{
+        constructor(){
+            this.attributes = {
+                nombre: null,
+                apellido: null
+            }
+        }
+
+        static get MiEdad () {
+            return 29;
+        }
+
+        get nombre(){
+            return this.attributes.nombre.toString().toUpperCase();
+        }
+
+        set nombre(nom){
+            this.attributes.nombre = nom;
+        }
+
+        saludo(){
+            console.log("Hola, soy ", this.nombre);
+            
+        }
+
+        // Metodo
+        
+    }
+
+    class Alumno extends Persona{
+        constructor(){
+            super();
+            
+        }
+
+        
+    }
+
+
+</script>
