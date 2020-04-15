@@ -22,3 +22,4 @@ Daniel Guzman.
 - Tomas Gargiulo, tgargiulo4@gmail.com
 - Federico Lavista, flavista@gmail.com.
 - Pablo Andrés, pablojorgeandres@gmail.com
+- Gaston Franceschini, gastonfranceschini@gmail.com
