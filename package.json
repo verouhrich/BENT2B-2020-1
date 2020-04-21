@@ -1,0 +1,22 @@
+{
+  "name": "bent2b-2020-1",
+  "version": "1.0.0",
+  "description": "Ejemplo creacion de proyectos NPM y manejo de paquetes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dguzman-ort/BENT2B-2020-1.git"
+  },
+  "author": "Daniel Guzman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dguzman-ort/BENT2B-2020-1/issues"
+  },
+  "homepage": "https://github.com/dguzman-ort/BENT2B-2020-1#readme",
+  "dependencies": {
+    "jest": "^25.3.0"
+  }
+}
