@@ -24,3 +24,5 @@ Daniel Guzman.
 - Pablo Andrés, pablojorgeandres@gmail.com
 - Gaston Franceschini, gastonfranceschini@gmail.com
 - Luciano Zayas, lucianogzayas@gmail.com
+- Santiago Valiño, santiago.valino@gmail.com
+- Alejandro Bincoletto, alejandrobincoletto@gmail.com
