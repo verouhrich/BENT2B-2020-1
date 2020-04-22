@@ -17,6 +17,8 @@ Daniel Guzman.
 # Alumnos:
 
 - Daniel Guzman, daniel.guzman@ort.edu.ar
+
+- Gaston Iglesias, gastonaleiglesias@gmail.com
 - German Gustavo Sandoval, gergsandoval@hotmail.com
 - Veronica Uhrich, veronicauhrich@gmail.com
 - Tomas Gargiulo, tgargiulo4@gmail.com
